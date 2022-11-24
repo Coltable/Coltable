@@ -5,6 +5,6 @@
 </h3>
 
 <p align="left">
-  <a href="https://twitter.com/gavincdm" rel="nofollow"><img src="https://img.shields.io/twitter/follow/gavincdm?labelColor=6e6e6e&color=cccccc&style=for-the-badge&logo=twitter" style="width:100%;>
+  <a href="https://twitter.com/gavincdm" rel="nofollow"><img src="https://img.shields.io/twitter/follow/gavincdm?labelColor=6e6e6e&color=cccccc&style=for-the-badge&logo=twitter" width="100">
 </p>
 
