@@ -10,6 +10,12 @@
 
 <ul>
   <li>
-    <p>fwaaf</p>
+    <p>I'm currently working on my College studies</p>
+  </li>
+  <li>
+    <p>Reach me on my socials</p>
+  </li>
+  <li>
+    <p>Check out my projects at http://coltable.dev/</p>
   </li>
 </ul>
