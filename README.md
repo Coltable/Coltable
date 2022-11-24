@@ -13,7 +13,7 @@
     <p>📖 I'm currently working on my College studies</p>
   </li>
   <li>
-    <p>📱Reach me on my twitter at https://twitter.com/gavincdm</p>
+    <p>📱Reach me on my twitter at <a href="https://twitter.com/gavincdm">https://twitter.com/gavincdm</a></p>
   </li>
   <li>
     <p>🚧 Check out my projects at http://coltable.dev/</p>
