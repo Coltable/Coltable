@@ -13,9 +13,9 @@
     <p>📖 I'm currently working on my College studies</p>
   </li>
   <li>
-    <p>📱Reach me on my twitter at <a href="https://twitter.com/gavincdm">https://twitter.com/gavincdm</a></p>
+    <p>📱Reach me on my twitter at <a href="https://twitter.com/gavincdm" target="_blank">https://twitter.com/gavincdm</a></p>
   </li>
   <li>
-    <p>🚧 Check out my projects at http://coltable.dev/</p>
+    <p>🚧 Check out my projects at <a href="http://coltable.dev/" target="_blank">http://coltable.dev/</a></p>
   </li>
 </ul>
