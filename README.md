@@ -10,12 +10,12 @@
 
 <ul>
   <li>
-    <p>I'm currently working on my College studies</p>
+    <p>📖 I'm currently working on my College studies</p>
   </li>
   <li>
-    <p>Reach me on my socials</p>
+    <p>📱Reach me on my twitter at https://twitter.com/gavincdm</p>
   </li>
   <li>
-    <p>Check out my projects at http://coltable.dev/</p>
+    <p>🚧 Check out my projects at http://coltable.dev/</p>
   </li>
 </ul>
